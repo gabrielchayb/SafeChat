@@ -1,0 +1,7 @@
+1. clique em ctrl + shift + p
+2. selecione a opção (python creat environment)
+3. venv e selecione uma versao do python (global) instalada no seu pc 
+4. do lado esquerdo, quando a pastinha venv surgir significa que tudo deu certo
+5. abra o terminal e se aparecer um (.venv) está tudo configurado. 
+
+YESSIR!
